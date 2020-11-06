@@ -11,7 +11,8 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "10.0"
   s.source       = {
       :git => "https://github.com/shiguredo/sora-ios-sdk.git",
-      :tag => s.version
+      :branch => 'release/2020.7'
+      #:tag => s.version
   }
   s.source_files  = "Sora/**/*.swift"
   s.resources = ['Sora/info.json', 'Sora/*.xib']
