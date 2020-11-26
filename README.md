@@ -7,7 +7,7 @@ React Native WebRTC Kit 用の CocoaPod Specs リポジトリです。
 1. 本リポジトリをローカルの Spec リポジトリに登録します。
 
 ```
-$ pod repo add sora-ios-sdk-specs https://github.com/react-native-webrtc-kit/webrtc-ios.git
+$ pod repo add rnkit-ios-sdk-specs https://github.com/react-native-webrtc-kit/webrtc-ios.git
 ```
 
 2. Spec のリストを更新します。
