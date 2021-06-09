@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
                    DESC
   s.homepage     = "https://github.com/shiguredo/sora-ios-sdk"
   s.license      = { :type => "Apache License, Version 2.0" }
-  s.authors      = { "Shiguredo Inc." => "sora@shiguredo.jp" }
+  s.authors      = { "Shiguredo Inc." => "https://shiguredo.jp/" }
   s.platform     = :ios, "10.0"
   s.source       = { :http => "https://github.com/shiguredo/sora-ios-sdk/releases/download/#{s.version}/Sora.framework.zip" }
   s.source_files  = "Carthage/Build/iOS/Sora.framework/Headers/*.h"
