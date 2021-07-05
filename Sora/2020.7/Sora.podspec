@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
   s.resources = ['Sora/info.json', 'Sora/*.xib']
   s.prepare_command = 'sh Sora/info.sh'
   s.dependency "WebRTC", '86.4240.10.0'
-  s.dependency "Starscream", "3.1.1"
+  s.dependency "Starscream", "3.0.6"
 end
