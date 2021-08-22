@@ -2,6 +2,16 @@
 
 WebRTC SFU Sora iOS SDK 用の CocoaPod Specs リポジトリです。
 
+## About Shiguredo's open source software
+
+We will not respond to PRs or issues that have not been discussed on Discord. Also, Discord is only available in Japanese.
+
+Please read https://github.com/shiguredo/oss before use.
+
+## 時雨堂のオープンソースソフトウェアについて
+
+利用前に https://github.com/shiguredo/oss をお読みください。
+
 ## Spec リポジトリの準備
 
 1. 本リポジトリをローカルの Spec リポジトリに登録します。
