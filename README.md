@@ -31,8 +31,8 @@ $ pod repo update
 Podfile の先頭に次の記述を追加することで、本リポジトリの Spec を利用可能になります。
 
 ```
+source 'https://cdn.cocoapods.org/'
 source 'https://github.com/shiguredo/sora-ios-sdk-specs.git'
-source 'https://github.com/CocoaPods/Specs.git'
 ```
 
 ## ライセンス
